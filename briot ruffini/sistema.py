@@ -29,7 +29,10 @@ print('\nOs coeficientes do polinômio que resultou da divisão foram: \n')
 c = len(resultado) - 1
 for i, v in enumerate(resultado):
     if i == len(resultado) - 1:
-        print(f'E \033[31mresto\033[m da divisão foi: {v}')
+        print(f'\nE \033[31mresto\033[m da divisão foi: {v}')
+        
+        if v == 0:
+            print(f'O polinômio (x + {v}) é raiz!' if v < 0 else f'O polinômio (x - {raiz}) é raiz!')
     else:
         
         print(f'Coeficiente de grau {c}: {v}')
