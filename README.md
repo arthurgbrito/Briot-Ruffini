@@ -1,7 +1,7 @@
 # Briot Ruffini
- Esse é um programa feito em *python* que faz **Briot Ruffini** entre dois polinômios, sendo o dividendo de qualquer grau e o divisor um valor de x qualquer que você queira dividir.
+ Esse é um programa feito em *python* que reproduz o dispositivo prático de **Briot Ruffini** entre dois polinômios, sendo o dividendo de qualquer grau e o divisor um valor de x qualquer que você queira dividir.
  
-Por exemplo, você tem um polinômio de 4º grau e descobriu umas das raízes dele, e assim, você faz Briot Ruffini com o polinômio que é raiz dele e assim você consegue baixar o grau do polinômio.
+Por exemplo, você tem um polinômio de 4º grau e descobriu uma das raízes dele, e assim, você faz Briot Ruffini com o polinômio que é raiz dele e assim você consegue baixar o grau do polinômio.
 
 Briot Ruffini é feito da seguinte maneira:
 
